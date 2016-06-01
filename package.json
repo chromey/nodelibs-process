@@ -1,6 +1,8 @@
 {
   "main": "./process.js",
   "registry": "github",
+  "name": "nodelibs-process",
+  "version": "0.1.2",
   "map": {
     "./process.js": {
       "node": "./process-node.js"
